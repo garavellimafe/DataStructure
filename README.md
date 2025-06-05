@@ -11,7 +11,7 @@ Turma: 1CCPF
 
 Objetivo:
 
-Desenvolver uma aplicação em C++ com uma interface de programação que permita aos usuários registrar e consultar relatos sobre desastres naturais ocorridos num raio de até 10 km. O sistema deve:
+Desenvolver uma aplicação em C com uma interface de programação que permita aos usuários registrar e consultar relatos sobre desastres naturais ocorridos num raio de até 10 km. O sistema deve:
 -Coletar informações completas e organizadas da pessoa que está fazendo o relato (como nome, contato, localização, etc.).
 -Permitir a consulta eficiente dos relatos cadastrados.
 -Armazenar os dados em um arquivo de texto, garantindo a persistência das informações mesmo após o encerramento do programa
