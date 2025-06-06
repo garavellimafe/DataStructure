@@ -157,7 +157,7 @@ void menu() {
     } while (opcao != 3);
 }
 
-int Main() {
+int main() {
     menu();
     return 0;
 }
