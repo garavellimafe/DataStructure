@@ -157,7 +157,7 @@ void menu() {
     } while (opcao != 3);
 }
 
-int WinMain() {
+int Main() {
     menu();
     return 0;
 }
